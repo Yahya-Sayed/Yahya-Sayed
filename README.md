@@ -8,22 +8,16 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Security+researcher;Penetration+Tester;Software+Engineer;AI+Agent+Developer;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Security+researcher;Penetration+Tester;Software+Engineer;AI+Agent+Developer;&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Yahya-Sayed/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Yahya-Sayed.Yahya-Sayed"></a>
 </p>
 
----
-
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
