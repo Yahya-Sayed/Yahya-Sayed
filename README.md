@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">Security researcher & Penetration Tester | Egypt 🇪🇬</h3>
+<h3 align="center">Security researcher & Penetration Tester | 🇪🇬</h3>
 
 - 👯 I’m looking to collaborate on [CAI](https://github.com/aliasrobotics/cai)
 
